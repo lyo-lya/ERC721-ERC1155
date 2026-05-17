@@ -1,0 +1,15 @@
+{
+  "name": "Water Mage",
+  "description": "Master of water magic",
+  "image": "ipfs://bafybeieugbku4qw7uxycrc7cnzignfnxtygz45ba45uxqxsvtqysobcsga/1.png",
+  "attributes": [
+    {
+      "trait_type": "speed",
+      "value": 70
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Rare"
+    }
+  ]
+}

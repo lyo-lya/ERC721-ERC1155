@@ -1,0 +1,15 @@
+{
+  "name": "Light Paladin",
+  "description": "Holy armored defender",
+  "image": "ipfs://bafybeieugbku4qw7uxycrc7cnzignfnxtygz45ba45uxqxsvtqysobcsga/7.png",
+  "attributes": [
+    {
+      "trait_type": "defense",
+      "value": 93
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Epic"
+    }
+  ]
+}

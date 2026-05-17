@@ -1,0 +1,15 @@
+{
+  "name": "Dark Sorcerer",
+  "description": "Master of forbidden magic",
+  "image": "ipfs://bafybeieugbku4qw7uxycrc7cnzignfnxtygz45ba45uxqxsvtqysobcsga/8.png",
+  "attributes": [
+    {
+      "trait_type": "magic",
+      "value": 99
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Legendary"
+    }
+  ]
+}

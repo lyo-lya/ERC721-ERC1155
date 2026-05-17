@@ -1,0 +1,19 @@
+{
+  "name": "Student Visit Card",
+  "description": "Soulbound student NFT",
+  "image": "ipfs://bafybeieugbku4qw7uxycrc7cnzignfnxtygz45ba45uxqxsvtqysobcsga/student.png",
+  "attributes": [
+    {
+      "trait_type": "studentName",
+      "value": "Volha Platnitskaya"
+    },
+    {
+      "trait_type": "studentID",
+      "value": "123456"
+    },
+    {
+      "trait_type": "course",
+      "value": "Blockchain Development"
+    }
+  ]
+}

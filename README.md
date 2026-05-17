@@ -322,3 +322,7 @@ https://sepolia-optimism.etherscan.io/address/0x92e92031419b079eB770a783d8251cAF
 ```
 
 ![Block Explorer Screenshot](./1155.png)
+
+## Author
+
+Volha Platnitskaya Pr2
